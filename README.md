@@ -7,5 +7,5 @@ Only necessary var is `BOT_TOKEN`.
 
 
 ## Credits
-- [@BotzHub](https://t.me/BotzHub)
-- [Me](https://xditya.me)
+- [@xditya](https://t.me/xditya)
+- [Me](https://t.me/paidcoursesfree12)
