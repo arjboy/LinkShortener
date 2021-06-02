@@ -1,5 +1,5 @@
 # < (c) @xditya >
-# This file is a part of LinkShortener < https://github.com/xditya/LinkShortener >
+# This file is a part of LinkShortener < https://github.com/arjboy/LinkShortener >
 
 import logging
 from telethon import TelegramClient, events, Button
