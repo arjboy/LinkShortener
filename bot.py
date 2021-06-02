@@ -50,7 +50,7 @@ async def msgg(event):
 @BotzHub.on(events.callbackquery.CallbackQuery(data="help"))
 async def send_help(event):
     await event.edit(
-        "**URL Shortener.**\n\nSend me any URL and I'll shorten it for you!\nJoin @BotzHub if you liked this bot!",
+        "**URL Shortener.**\n\nSend me any URL and I'll shorten it for you!\nJoin @paidcoursesfree12 if you liked this bot!",
         buttons=[
             [Button.switch_inline("Go Inline", query="", same_peer=True)],
             [Button.inline("« Back", data="bck")],
@@ -93,8 +93,8 @@ async def in_q(event):
 buttons = [
     [Button.inline("Help", data="help")],
     [
-        Button.url("Channel", url="t.me/BotzHub"),
-        Button.url("Source", url="https://github.com/xditya/LinkShortener"),
+        Button.url("Channel", url="t.me/paidcoursesfree12"),
+        Button.url("Source", url="https://github.com/arjboy/LinkShortener"),
     ],
 ]
 
@@ -117,5 +117,5 @@ def link_shortener(url):
 
 
 print("Bot has started.")
-print("Do visit @BotzHub..")
+print("Do visit @paidcoursesfree12..")
 BotzHub.run_until_disconnected()
