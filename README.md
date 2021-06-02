@@ -1,6 +1,6 @@
 # Link Shortener Bot.
 
-Can be found on telegram as [@BHURLBot](https://t.me/BHURLBot)
+we are on telegram as [@paidcoursesfree12](https://t.me/paidcoursesfree12)
 
 ## Deploying
 Only necessary var is `BOT_TOKEN`.
