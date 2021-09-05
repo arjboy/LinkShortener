@@ -10,7 +10,7 @@ logging.basicConfig(
     format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=logging.INFO
 )
 
-bottoken = 1996373444:AAHr_4Xv7JiVJtkpxXo6CRmv5N7BcMGaX4g
+bottoken = "1996373444:AAHr_4Xv7JiVJtkpxXo6CRmv5N7BcMGaX4g"
 # start the bot
 print("Starting...")
 apiid = 6
